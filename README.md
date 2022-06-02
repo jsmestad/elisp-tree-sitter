@@ -71,7 +71,7 @@ To test against a different version of Emacs, set the environment variable `EMAC
 
 ## Alternatives
 
-- Tree-sitter in Emacs's core: https://github.com/casouri/emacs (the future)
+- Tree-sitter in Emacs's core: https://github.com/emacs-mirror/emacs/blob/feature/tree-sitter/lisp/treesit.el (the future)
 - Binding through C instead of Rust: https://github.com/karlotness/tree-sitter.el (dormant)
 
 ## Contribution
